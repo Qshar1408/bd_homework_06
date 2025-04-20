@@ -40,6 +40,9 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+![bd_006](https://github.com/Qshar1408/bd_homework_06/blob/main/img/bd_06_001.png)
+![bd_006](https://github.com/Qshar1408/bd_homework_06/blob/main/img/bd_06_002.png)
+![bd_006](https://github.com/Qshar1408/bd_homework_06/blob/main/img/bd_06_003.png)
 ---
 
 ## Дополнительные задания (со звёздочкой*)
