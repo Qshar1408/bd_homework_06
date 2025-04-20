@@ -55,3 +55,6 @@
 Выполните конфигурацию master-master репликации. Произведите проверку.
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
+
+![bd_006](https://github.com/Qshar1408/bd_homework_06/blob/main/img/bd_06_004.png)
+![bd_006](https://github.com/Qshar1408/bd_homework_06/blob/main/img/bd_06_005.png)
